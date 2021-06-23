@@ -10,10 +10,12 @@ Suitable for Bug Bounty hunting.
 ## Installation
     apt update&&upgrade
     pkg install python3
-    git clone
+    git clone https://github.com/Vishnuxx/ShoMe
     pip install -r requirements.txt
 
 ## Usage
     cd ShoMe
     python3 shome.py
-    
+
+
+##### Feel free to contribute
