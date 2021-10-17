@@ -12,7 +12,7 @@ def init():
 ┃╰━╯┃┃┃┃╰╯┃┃┃┃┃┃┃━┫
 ╰━━━┻╯╰┻━━┻╯╰╯╰┻━━╯""")
     print(head)
-    print("_____Developed by DevilBo_____\n")
+    print("_____Developed by Vishnuxx_____\n")
     print("    (1) Quick Scan")
     print("    (2) Deep Scan")
     print("\n")
