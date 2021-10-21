@@ -17,7 +17,7 @@ def init():
     print("    (2) Deep Scan")
     print("\n")
    
-   
+#scan
 def scan(url , arr , deep):
     with open(".seclist.txt" , 'r') as fin:
         count = 0
@@ -38,7 +38,7 @@ def scan(url , arr , deep):
                                print(f"Exception Occured: {e}")
                                break
 
-
+#save results into storage
 def save(lis):
     sv = input("Do you want to save as file?[y/n]")
     if sv == "y":
