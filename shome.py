@@ -13,8 +13,8 @@ def init():
 ╰━━━┻╯╰┻━━┻╯╰╯╰┻━━╯""")
     print(head)
     print("_____Developed by Vishnuxx_____\n")
-    print("    (1) Quick Scan")     #Scans all the paths inside a directory
-    print("    (2) Deep Scan")
+    print("    (1) Quick Scan") 
+    print("    (2) Deep Scan")      #Scans all the paths inside a directory
     print("\n")
    
 #scan
